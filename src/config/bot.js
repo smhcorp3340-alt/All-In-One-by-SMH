@@ -21,7 +21,7 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
-    activities: [5
+    activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "The bot All-In-One by SMH !",
